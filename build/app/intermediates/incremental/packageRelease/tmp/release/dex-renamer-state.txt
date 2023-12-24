@@ -1,0 +1,4 @@
+#Sun Dec 24 06:47:29 PKT 2023
+base.0=C\:\\Users\\YOUSUF\\Desktop\\this is my flutter\\pharmaco\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
