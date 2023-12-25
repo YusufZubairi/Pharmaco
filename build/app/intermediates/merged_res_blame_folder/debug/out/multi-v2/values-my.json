@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.pharmaco.app-mergeDebugResources-18:/values-my/values-my.xml",
+            "outputFile": "com.example.pharmaco.app-mergeDebugResources-19:/values-my/values-my.xml",
             "map": [
                 {
                     "source": "C:\\Users\\YOUSUF\\.gradle\\caches\\transforms-3\\a1a69685671b5a43590c9f26b5fab3dc\\transformed\\jetified-play-services-base-18.0.1\\res\\values-my\\values.xml",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\YOUSUF\\.gradle\\caches\\transforms-3\\3b18a5944a82d21b6a3fbe05e8b03180\\transformed\\jetified-play-services-basement-18.1.0\\res\\values-my\\values.xml",
+                    "source": "C:\\Users\\YOUSUF\\.gradle\\caches\\transforms-3\\062237f186c5f664c67529be130b3337\\transformed\\jetified-play-services-basement-18.2.0\\res\\values-my\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",

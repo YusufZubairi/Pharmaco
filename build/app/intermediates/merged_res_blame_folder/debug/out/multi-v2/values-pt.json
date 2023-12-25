@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.pharmaco.app-mergeDebugResources-18:/values-pt/values-pt.xml",
+            "outputFile": "com.example.pharmaco.app-mergeDebugResources-19:/values-pt/values-pt.xml",
             "map": [
                 {
                     "source": "C:\\Users\\YOUSUF\\.gradle\\caches\\transforms-3\\583a0aa66ad496f8e0b511bd75641930\\transformed\\browser-1.4.0\\res\\values-pt\\values-pt.xml",

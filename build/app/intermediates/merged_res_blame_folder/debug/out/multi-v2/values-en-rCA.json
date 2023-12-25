@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.pharmaco.app-mergeDebugResources-18:/values-en-rCA/values-en-rCA.xml",
+            "outputFile": "com.example.pharmaco.app-mergeDebugResources-19:/values-en-rCA/values-en-rCA.xml",
             "map": [
                 {
                     "source": "C:\\Users\\YOUSUF\\.gradle\\caches\\transforms-3\\fd44423831f6c5017c95bea38d6ea527\\transformed\\core-1.9.0\\res\\values-en-rCA\\values-en-rCA.xml",

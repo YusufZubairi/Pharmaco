@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.pharmaco.app-mergeDebugResources-18:/values-pa/values-pa.xml",
+            "outputFile": "com.example.pharmaco.app-mergeDebugResources-19:/values-pa/values-pa.xml",
             "map": [
                 {
                     "source": "C:\\Users\\YOUSUF\\.gradle\\caches\\transforms-3\\fd44423831f6c5017c95bea38d6ea527\\transformed\\core-1.9.0\\res\\values-pa\\values-pa.xml",
@@ -18,23 +18,6 @@
                         "startOffsets": "2743",
                         "endColumns": "100",
                         "endOffsets": "2839"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\YOUSUF\\.gradle\\caches\\transforms-3\\3b18a5944a82d21b6a3fbe05e8b03180\\transformed\\jetified-play-services-basement-18.1.0\\res\\values-pa\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "195",
-                        "endColumns": "146",
-                        "endOffsets": "341"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1066",
-                        "endColumns": "150",
-                        "endOffsets": "1212"
                     }
                 },
                 {
@@ -69,6 +52,23 @@
                         "startOffsets": "55,162,335,465,574,721,850,963,1217,1379,1488,1661,1793,1946,2107,2172,2238",
                         "endColumns": "106,172,129,108,146,128,112,102,161,108,172,131,152,160,64,65,81",
                         "endOffsets": "157,330,460,569,716,845,958,1061,1374,1483,1656,1788,1941,2102,2167,2233,2315"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\YOUSUF\\.gradle\\caches\\transforms-3\\062237f186c5f664c67529be130b3337\\transformed\\jetified-play-services-basement-18.2.0\\res\\values-pa\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "146",
+                        "endOffsets": "341"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1066",
+                        "endColumns": "150",
+                        "endOffsets": "1212"
                     }
                 }
             ]

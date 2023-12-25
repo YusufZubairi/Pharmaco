@@ -1,6 +1,7 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
+import 'package:pharmaco/Services/auth_services.dart';
 import 'package:pharmaco/SignUp.dart';
 import 'package:pharmaco/components/login_button.dart';
 import 'package:pharmaco/components/square_tile.dart';
@@ -156,10 +157,12 @@ class _loginState extends State<login> {
 
                   const SizedBox(height: 20),
                   //Google Sign Button
-                  const Row(
+                  Row(
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: [
-                      Square_tile(imagePath: 'lib/images/GoogleLogo.png'),
+                      Square_tile(
+                          onTap: () => AuthService().signinWithGoogle(),
+                          imagePath: 'lib/images/GoogleLogo.png'),
                     ],
                   ),
 

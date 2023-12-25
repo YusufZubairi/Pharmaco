@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.pharmaco.app-mergeDebugResources-18:/values-zh-rCN/values-zh-rCN.xml",
+            "outputFile": "com.example.pharmaco.app-mergeDebugResources-19:/values-zh-rCN/values-zh-rCN.xml",
             "map": [
                 {
                     "source": "C:\\Users\\YOUSUF\\.gradle\\caches\\transforms-3\\fd44423831f6c5017c95bea38d6ea527\\transformed\\core-1.9.0\\res\\values-zh-rCN\\values-zh-rCN.xml",
@@ -18,23 +18,6 @@
                         "startOffsets": "2238",
                         "endColumns": "100",
                         "endOffsets": "2334"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\YOUSUF\\.gradle\\caches\\transforms-3\\3b18a5944a82d21b6a3fbe05e8b03180\\transformed\\jetified-play-services-basement-18.1.0\\res\\values-zh-rCN\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "199",
-                        "endColumns": "94",
-                        "endOffsets": "293"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "917",
-                        "endColumns": "98",
-                        "endOffsets": "1011"
                     }
                 },
                 {
@@ -69,6 +52,23 @@
                         "startOffsets": "55,156,285,400,502,607,723,825,1016,1124,1225,1355,1470,1574,1682,1738,1795",
                         "endColumns": "100,128,114,101,104,115,101,91,107,100,129,114,103,107,55,56,73",
                         "endOffsets": "151,280,395,497,602,718,820,912,1119,1220,1350,1465,1569,1677,1733,1790,1864"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\YOUSUF\\.gradle\\caches\\transforms-3\\062237f186c5f664c67529be130b3337\\transformed\\jetified-play-services-basement-18.2.0\\res\\values-zh-rCN\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "199",
+                        "endColumns": "94",
+                        "endOffsets": "293"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "917",
+                        "endColumns": "98",
+                        "endOffsets": "1011"
                     }
                 }
             ]

@@ -1,25 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.pharmaco.app-mergeDebugResources-18:/values-fa/values-fa.xml",
+            "outputFile": "com.example.pharmaco.app-mergeDebugResources-19:/values-fa/values-fa.xml",
             "map": [
-                {
-                    "source": "C:\\Users\\YOUSUF\\.gradle\\caches\\transforms-3\\3b18a5944a82d21b6a3fbe05e8b03180\\transformed\\jetified-play-services-basement-18.1.0\\res\\values-fa\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "195",
-                        "endColumns": "150",
-                        "endOffsets": "345"
-                    },
-                    "to": {
-                        "startLines": "10",
-                        "startColumns": "4",
-                        "startOffsets": "1034",
-                        "endColumns": "154",
-                        "endOffsets": "1184"
-                    }
-                },
                 {
                     "source": "C:\\Users\\YOUSUF\\.gradle\\caches\\transforms-3\\a1a69685671b5a43590c9f26b5fab3dc\\transformed\\jetified-play-services-base-18.0.1\\res\\values-fa\\values.xml",
                     "from": {
@@ -69,6 +52,23 @@
                         "startOffsets": "2691",
                         "endColumns": "100",
                         "endOffsets": "2787"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\YOUSUF\\.gradle\\caches\\transforms-3\\062237f186c5f664c67529be130b3337\\transformed\\jetified-play-services-basement-18.2.0\\res\\values-fa\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "150",
+                        "endOffsets": "345"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1034",
+                        "endColumns": "154",
+                        "endOffsets": "1184"
                     }
                 }
             ]

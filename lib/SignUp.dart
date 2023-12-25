@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:pharmaco/Services/auth_services.dart';
 import 'package:pharmaco/components/Signup_button.dart';
 import 'package:pharmaco/components/square_tile.dart';
 import 'package:pharmaco/components/username_textfeild.dart';
@@ -99,10 +100,12 @@ class SignUp extends StatelessWidget {
 
                   const SizedBox(height: 20),
                   //Google Sign Button
-                  const Row(
+                  Row(
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: [
-                      Square_tile(imagePath: 'lib/images/GoogleLogo.png'),
+                      Square_tile(
+                          onTap: () => AuthService().signinWithGoogle(),
+                          imagePath: 'lib/images/GoogleLogo.png'),
                     ],
                   ),
                   const SizedBox(height: 20),
